@@ -1,1 +1,1 @@
-1.47 stable hotfix 2
+1.54
